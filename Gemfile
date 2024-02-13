@@ -13,6 +13,8 @@ gem "puma", ">= 5.0"
 
 gem "committee", "5.1.0"
 
+gem "rspec-rails"
+
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
 
